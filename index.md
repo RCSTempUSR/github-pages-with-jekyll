@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Just a github webpage session"
 ---
 
-I'm glad you are here. I plan to talk about ...
+i am just a beginnner. sorry, if i fooled / tricked you to this, dead end page.
+<h1>this Site is under maintanance right now</h1>
